@@ -1,4 +1,10 @@
 p{
     text-align: center;
-    
+
+}
+.h1{
+   font: bold; 
+}
+.h2{
+    font: italic;
 }
